@@ -40,3 +40,10 @@ figcaption {
 #logo h2 {
   font-family: "Eslie Swash Caps", cursive;
 }
+
+/* Psuedo Selectors */
+
+#details a:link {
+  color: black;
+  text-decoration: none;
+}
