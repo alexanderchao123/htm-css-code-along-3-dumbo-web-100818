@@ -30,3 +30,13 @@ figcaption {
 #logo {
   background-color: aqua;
 }
+
+/* Descendent Selectors */
+
+#logo h1 {
+  font-family: "Clicker Script", cursive;
+}
+
+#logo h2 {
+  font-family: "Eslie Swash Caps", cursive;
+}
